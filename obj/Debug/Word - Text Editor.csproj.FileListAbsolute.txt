@@ -1,0 +1,25 @@
+C:\Users\lenovo\source\repos\Word - Text Editor\bin\Debug\Word - Text Editor.exe.config
+C:\Users\lenovo\source\repos\Word - Text Editor\bin\Debug\Word - Text Editor.exe
+C:\Users\lenovo\source\repos\Word - Text Editor\bin\Debug\Word - Text Editor.pdb
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word___Text_Editor.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.exe
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.pdb
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word___Text_Editor.Form1.resources
+C:\Users\lenovo\source\repos\Word - Text Editor\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo\source\repos\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.CopyComplete
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\bin\Debug\Word - Text Editor.exe.config
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\bin\Debug\Word - Text Editor.exe
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\bin\Debug\Word - Text Editor.pdb
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word___Text_Editor.Form1.resources
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word___Text_Editor.Properties.Resources.resources
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.csproj.CopyComplete
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.exe
+C:\Users\lenovo\Desktop\New folder\Learning-Projects\Word - Text Editor\obj\Debug\Word - Text Editor.pdb
